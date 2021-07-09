@@ -1,0 +1,12 @@
+/* Defaults placed here */
+
+* {
+    box-sizing: border-box;
+}
+
+
+/*subject to change*/
+
+body {
+    background-color: slategray;
+}
