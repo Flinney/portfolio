@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "website portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flinney/portfolio.git"
+  },
+  "author": "Austin Binkley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flinney/portfolio/issues"
+  },
+  "homepage": "https://github.com/Flinney/portfolio#readme",
+  "devDependencies": {
+    "local-web-server": "^5.0.0"
+  }
+}
