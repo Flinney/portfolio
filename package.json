@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Flinney/portfolio#readme",
   "devDependencies": {
     "local-web-server": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2"
   }
 }
