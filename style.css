@@ -27,8 +27,9 @@ div {
     padding-top: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
-    padding-left: 300px;
-    max-width: 1000px;
+    padding-left: 30px;
+    margin: 0 auto;
+    width: 50%
 }
 
 /*minor adjustments in size, shape and color of content*/
@@ -82,8 +83,10 @@ a:active {
     border-radius: 50%;
 }
 
-/* ordered list class to adjust the last list further */
+
+/* ordered list class to adjust the lists */
 
 .centeredlist {
-    padding-left: 515px;
+    margin: 0 auto;
+    width: 50%;
 }
