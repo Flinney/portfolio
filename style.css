@@ -81,3 +81,9 @@ a:active {
     margin-right: auto;
     border-radius: 50%;
 }
+
+/* ordered list class to adjust the last list further */
+
+.centeredlist {
+    padding-left: 515px;
+}
