@@ -4,9 +4,80 @@
     box-sizing: border-box;
 }
 
+/* centering titles */
+h2,
+h3 {
+    text-align: center;
+}
 
-/*subject to change*/
+/*standardize text color/font */
+header,
+main,
+footer {
+    color: #493843;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 body {
-    background-color: slategray;
+    background-color: #CBBFBB;
+}
+
+/*div padding and max width to center blocks instead of text*/
+div {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 300px;
+    max-width: 1000px;
+}
+
+/*minor adjustments in size, shape and color of content*/
+header {
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+    font-size: x-small;
+}
+
+
+hr {
+    border: 2px solid #493843;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+p {
+    padding-left: 15px;
+}
+
+/* customize color of hyperlinks */
+a:link {
+    color: #493843;
+}
+
+a:visited {
+    color: #61988E;
+}
+
+a:hover {
+    color: #A0B2A6;
+}
+
+a:active {
+    color: #EABDA8;
+}
+
+/* custom class to adjust image*/
+.imgcontainer {
+    width: 405px;
+    height: 420px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
 }
