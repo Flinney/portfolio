@@ -6,7 +6,7 @@ Simple project to create a portfolio website
 
 49ers rock.
 Jaimie is the best wife ever.
-Thanks to Joshua [GitHub](https://github.com/jfries289) and Matt [GitHub](https://github.com/mattdeboard) for all the advice, help, and memeing.
+Thanks to Joshua ([GitHub](https://github.com/jfries289)) and Matt ([GitHub](https://github.com/mattdeboard)) for all the advice, help, and memeing.
 Yes, my name is Austin and I live in Austin.
 
 ## Note
